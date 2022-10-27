@@ -1,0 +1,6 @@
+Pandas Homework 
+
+1. Smaller Schools sizes performed better on average for both Reading and Math
+2. Charter Schools performed better on average for both Reading and Math
+3. No difference on gender performance across the board
+4. More budget per student did not equate to better performance
